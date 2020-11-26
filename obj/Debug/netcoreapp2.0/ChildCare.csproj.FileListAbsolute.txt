@@ -1,0 +1,10 @@
+C:\Code\ChildCare\bin\Debug\netcoreapp2.0\ChildCare.deps.json
+C:\Code\ChildCare\bin\Debug\netcoreapp2.0\ChildCare.runtimeconfig.json
+C:\Code\ChildCare\bin\Debug\netcoreapp2.0\ChildCare.runtimeconfig.dev.json
+C:\Code\ChildCare\bin\Debug\netcoreapp2.0\ChildCare.dll
+C:\Code\ChildCare\bin\Debug\netcoreapp2.0\ChildCare.pdb
+C:\Code\ChildCare\obj\Debug\netcoreapp2.0\ChildCare.csprojAssemblyReference.cache
+C:\Code\ChildCare\obj\Debug\netcoreapp2.0\ChildCare.AssemblyInfoInputs.cache
+C:\Code\ChildCare\obj\Debug\netcoreapp2.0\ChildCare.AssemblyInfo.cs
+C:\Code\ChildCare\obj\Debug\netcoreapp2.0\ChildCare.dll
+C:\Code\ChildCare\obj\Debug\netcoreapp2.0\ChildCare.pdb

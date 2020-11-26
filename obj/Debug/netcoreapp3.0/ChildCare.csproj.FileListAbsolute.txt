@@ -1,0 +1,22 @@
+C:\Code\ChildCare\bin\Debug\netcoreapp3.0\ChildCare.exe
+C:\Code\ChildCare\bin\Debug\netcoreapp3.0\ChildCare.deps.json
+C:\Code\ChildCare\bin\Debug\netcoreapp3.0\ChildCare.runtimeconfig.json
+C:\Code\ChildCare\bin\Debug\netcoreapp3.0\ChildCare.runtimeconfig.dev.json
+C:\Code\ChildCare\bin\Debug\netcoreapp3.0\ChildCare.dll
+C:\Code\ChildCare\bin\Debug\netcoreapp3.0\ChildCare.pdb
+C:\Code\ChildCare\obj\Debug\netcoreapp3.0\ChildCare.csprojAssemblyReference.cache
+C:\Code\ChildCare\obj\Debug\netcoreapp3.0\ChildCare.AssemblyInfoInputs.cache
+C:\Code\ChildCare\obj\Debug\netcoreapp3.0\ChildCare.AssemblyInfo.cs
+C:\Code\ChildCare\obj\Debug\netcoreapp3.0\ChildCare.dll
+C:\Code\ChildCare\obj\Debug\netcoreapp3.0\ChildCare.pdb
+C:\Users\jaedo\OneDrive\3 - Technology\Deakin\1 - Object Oriented Development\Distinction Tasks\ChildCare\bin\Debug\netcoreapp3.0\ChildCare.exe
+C:\Users\jaedo\OneDrive\3 - Technology\Deakin\1 - Object Oriented Development\Distinction Tasks\ChildCare\bin\Debug\netcoreapp3.0\ChildCare.deps.json
+C:\Users\jaedo\OneDrive\3 - Technology\Deakin\1 - Object Oriented Development\Distinction Tasks\ChildCare\bin\Debug\netcoreapp3.0\ChildCare.runtimeconfig.json
+C:\Users\jaedo\OneDrive\3 - Technology\Deakin\1 - Object Oriented Development\Distinction Tasks\ChildCare\bin\Debug\netcoreapp3.0\ChildCare.runtimeconfig.dev.json
+C:\Users\jaedo\OneDrive\3 - Technology\Deakin\1 - Object Oriented Development\Distinction Tasks\ChildCare\bin\Debug\netcoreapp3.0\ChildCare.dll
+C:\Users\jaedo\OneDrive\3 - Technology\Deakin\1 - Object Oriented Development\Distinction Tasks\ChildCare\bin\Debug\netcoreapp3.0\ChildCare.pdb
+C:\Users\jaedo\OneDrive\3 - Technology\Deakin\1 - Object Oriented Development\Distinction Tasks\ChildCare\obj\Debug\netcoreapp3.0\ChildCare.csprojAssemblyReference.cache
+C:\Users\jaedo\OneDrive\3 - Technology\Deakin\1 - Object Oriented Development\Distinction Tasks\ChildCare\obj\Debug\netcoreapp3.0\ChildCare.AssemblyInfoInputs.cache
+C:\Users\jaedo\OneDrive\3 - Technology\Deakin\1 - Object Oriented Development\Distinction Tasks\ChildCare\obj\Debug\netcoreapp3.0\ChildCare.AssemblyInfo.cs
+C:\Users\jaedo\OneDrive\3 - Technology\Deakin\1 - Object Oriented Development\Distinction Tasks\ChildCare\obj\Debug\netcoreapp3.0\ChildCare.dll
+C:\Users\jaedo\OneDrive\3 - Technology\Deakin\1 - Object Oriented Development\Distinction Tasks\ChildCare\obj\Debug\netcoreapp3.0\ChildCare.pdb
